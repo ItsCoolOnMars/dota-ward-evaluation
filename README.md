@@ -4,7 +4,7 @@
 Useful analysis of the very important aspect of dota 2 - warding. Could be used to assist and guide regular players as well as high/pro level players (tailored analysis of pro teams).
 
 **Obvious thing to keep in mind:**  
-To find a ward both vision and true-sight should be overlapped at the same time. To find best wards, two main philosophies can be applied, retroactive or proactive. The combination of both i believe will yield the best results.
+To find a ward both vision and true-sight should be overlapped at the same time.
 
 ---
 
@@ -21,11 +21,11 @@ To find a ward both vision and true-sight should be overlapped at the same time.
 ## Vision Wards
 
 - **Ward survived a long time** – good  
-  is it though? or the amount of information it gathered should be a major factor. i.e. ward survived whole 6min but showed nothing of value then its actually anet negative (because wards are limited resource?)
+  is it though? or the amount of information it gathered should be a major factor. i.e. ward survived whole 6min but showed nothing of value then its actually a net-negative (because wards are limited resource?)
 - **Ward observes important locations** – good
 
 ### What are important locations/events?
-A teamfight is a top priority one or is farming spot of an enemy carry is one? I guess its quite unclear to make any solid decisions here (lots of implications, i.e. bara who needs constant vision on creeps for escape/farm), so we need to break it down further:
+A teamfight is a top priority one or is farming spot of an enemy carry is one? I guess its quite unclear to make any solid decisions here (lots of impTo find best wards, two main philosophies can be applied, retroactive or proactive.lications, i.e. bara who needs constant vision on creeps for escape/farm), so we need to break it down further:
 
 #### Properties of a Ward That Could Be Derived for Future Use:
 - **Units that are visible due to this ward** (meaning no other means of vision were involved) can be just an unbounded score or normalised (due to complications like having many heroes/units visible at the same time the score would be more feasible)
